@@ -1,0 +1,1 @@
+web: gunicorn LocatorIP.wsgi --log-file -
